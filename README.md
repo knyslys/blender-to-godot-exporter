@@ -1,4 +1,4 @@
-# Godot Scene Exporter for Blender
+Blender exporter for Godot
 
 Hey guys. I vibesloped this simple Blender python addon to export asset packs and 3d models into Godot engine kinda easily without wanting to hang myself. 
 

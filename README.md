@@ -36,6 +36,8 @@ It also detects the same textures used by other exported materials, so it wont b
 8. Click **Run Preflight Health Check** to make sure no broken textures or unapplied scales!
 9. Click **Export Asset Pack for Godot!**
 
+ **(IMPORTANT)** MAKE SURE TO NAME YOUR TEXTURES WITH UNIQUE NAMES. TEXTURES NAMED Texture001, Texture002 will be considered as the same and wont be duplicated!
+
 ---
 <img width="800" height="481" alt="1" src="https://github.com/user-attachments/assets/3f3047e4-725d-468d-8e7e-11cd144c1478" />
 <img width="800" height="357" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/62972f39-0f9c-4c4f-b110-bca5e6f224ef" />
